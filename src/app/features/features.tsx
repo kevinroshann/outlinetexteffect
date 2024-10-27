@@ -9,7 +9,7 @@ import {
 
   
   const Features = () => {
-    const imageSrc = ""; // Change this to your image source or leave it empty for testing
+
     return (
       <div className="px-5 lg:px-20 ">
         <h1 className="text-6xl font-bold m-10 text-center">How It Works</h1>{/* Title with larger font */}
