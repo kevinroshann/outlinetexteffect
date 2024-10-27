@@ -1,16 +1,10 @@
 import Image from "next/image";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 
-import { Button } from "@/components/ui/button";
-import Features from "@/app/features/features";
 
 import {
   Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
+
 } from "@/components/ui/card";
 
 const MoreImages = () => {

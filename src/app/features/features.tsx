@@ -1,14 +1,12 @@
 import {
     Card,
     CardContent,
-    CardDescription,
-    CardFooter,
+
     CardHeader,
     CardTitle,
   } from "@/components/ui/card";
   
-  import { AspectRatio } from "@/components/ui/aspect-ratio";
-  import Image from "next/image";
+
   
   const Features = () => {
     const imageSrc = ""; // Change this to your image source or leave it empty for testing

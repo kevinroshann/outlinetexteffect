@@ -2,16 +2,6 @@ import Image from "next/image";
 import { AspectRatio } from "@/components/ui/aspect-ratio";
 
 import { Button } from "@/components/ui/button";
-import Features from "@/app/features/features";
-
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from "@/components/ui/card";
 
 const Main = () => {
     const imageSrc = "images/outline1.jpg"; // Change this to your image source or leave it empty for testing
