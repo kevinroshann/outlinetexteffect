@@ -1,6 +1,4 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+
 
 body {
   font-family: Arial, Helvetica, sans-serif;
@@ -62,14 +60,7 @@ body {
   }
 }
 
-@layer base {
-  * {
-    @apply border-border;
-  }
-  body {
-    @apply bg-background text-foreground;
-  }
-}
+
 @layer base {
   :root {
     --background: 0 0% 96%; /* Light grey background */
